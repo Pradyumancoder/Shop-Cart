@@ -1,0 +1,53 @@
+
+
+.nextarrow{
+    position: absolute;
+    cursor: pointer;
+    z-index: 10;
+   
+    color: black;
+    top: 45%;
+    right: -0.13%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.prearrow{
+    position: absolute;
+    cursor: pointer;
+    z-index: 10;
+  
+    color: black;
+    top: 45%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.prearrow:hover{
+    background-color: grey;
+
+}
+
+
+.nextarrow:hover{
+    background-color: grey;
+}
+
+
+::-webkit-scrollbar {
+    width: 0.1em;
+    background-color: white;
+    /* padding: 10px; */
+    scroll-behavior: smooth;
+  }
+  
+
+  ::-webkit-scrollbar-thumb {
+    background-color: white;
+    border-radius: 10px;
+    scroll-behavior: smooth;
+  
+  }
+
+
+

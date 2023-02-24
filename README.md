@@ -34,6 +34,8 @@ home different pages
 
 category
 ![Screenshot (38)](https://user-images.githubusercontent.com/97114184/221166715-9d2a5bb8-2cf2-4283-9359-4782adc9a05b.png)
+
+Footer
 ![Screenshot (39)](https://user-images.githubusercontent.com/97114184/221166719-841fa2bf-5111-4658-9c4f-803c1eb58516.png)
 
 Laptop
